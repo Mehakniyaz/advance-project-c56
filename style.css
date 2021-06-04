@@ -1,0 +1,19 @@
+.container {
+    
+     display:flex;
+    background-color: #f0e8c5;
+   
+}
+img{
+    width:500px;
+    height:500px;
+}
+.innerflex{
+     margin-right: 25px;
+	  margin-left: 25px;
+    background-color: white;
+    
+}
+div{
+    margin-top: 15px;
+}
